@@ -49,7 +49,7 @@
 }
 
 .commentContent header button:hover {
-    background: var(--red-500);
+    color: var(--red-500);
 }
 
 .commentContent p {
